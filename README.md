@@ -73,10 +73,10 @@ The server will start and listen on port 8080 by default. You can access it at h
 ## Screenshots
 
 ### Game Start Screen
-![Game Start Screen]()
+![Game Start Screen](https://github.com/Utkarshverma7/UTKARSHVERMA_21BCE10269/blob/main/IMAGES/EPIC.png)
 
 ### Game Over Screen
-![Game Over Screen]()
+![Game Over Screen](https://github.com/Utkarshverma7/UTKARSHVERMA_21BCE10269/blob/main/IMAGES/FINAL.png)
 
 
 ## Client Setup 🖥️
